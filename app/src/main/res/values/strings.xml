@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieHub</string>
+    <string name="rating_star">Rating Star\n</string>
+    <string name="votes">Votes\n</string>
+    <string name="release_date">Release Dates</string>
+    <string name="language">Language</string>
+    <string name="overview">Overview</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="movie_hub">Movie Hub</string>
+    <string name="genres">Genres</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="trending">Trending</string>
+    <string name="upcoming">Upcoming</string>
+</resources>
